@@ -21,7 +21,7 @@
 AtliQ.Co merupakan Perusahaan  manufaktur perangkat keras dan perangkat tambahan computer dengan distributor atau pelanggan yang tersebar dalam India. Penjualan medapatkan revenue sebesar ₹985 M profit total senilai ₹24.5 M. Puncak penjualan ada pada 1 Januari 2019 dengan revenue senilai ₹2,7 M dan profit sebesar ₹1.5 M dan Pelanggan Electricalsara Stores mendominasi sumber keuangan AtliQ.Co dengan  37% total profit, data pelanggan tersebut juga membuat wilayah Central terlihat sebagai wilayah paling menguntungkan .Produk dengan kode Prod329 menjadi yang paling diminati oleh Electricalsara Stores dan Prod040 paling diminati secara menyeluruh dengan profit ₹1M. AtliQ.Co menyediakan data dalam rentang waktu dari 4 Oktober 2017 sampai 26 Juni 2020.
 
 <p align="center">
-  <img src="https://github.com/AlHafidzLuhurDarma/AtliQ_Computer_Hardware_Manufacturing_Analysis/blob/main/gambar/Screenshot%202025-10-13%20121334.png" width=600 height=400>
+  <img src="https://github.com/AlHafidzLuhurDarma/Analisa_AtliQ_Manufaktur_Perangkat_Keras_Komputer/blob/main/gambar/Screenshot%202025-10-13%20121334.png" width=600 height=400>
 </p>
 
 ## Tujuan
@@ -34,7 +34,7 @@ Tujuan laporan ini adalah untuk menganalisis performa penjualan dan profitabilit
 ## Deskripsi Data
 
 <p align="center">
-  <img src="https://github.com/AlHafidzLuhurDarma/AtliQ_Computer_Hardware_Manufacturing_Analysis/blob/main/gambar/Screenshot%202025-10-12%20102139.png" width=700 height=500>
+  <img src="https://github.com/AlHafidzLuhurDarma/Analisa_AtliQ_Manufaktur_Perangkat_Keras_Komputer/blob/main/gambar/Screenshot%202025-10-12%20102139.png" width=700 height=500>
 </p>
 
 Data yang dianalisis merupakan data internal perusahaan AtliQ.Co dalam rentang Q4 2017 – Q2 2020, mencakup informasi transaksi penjualan dan profit dari berbagai pelanggan dan produk. Data disajikan dalam bentuk tabel relasional dengan entitas utama berikut:
@@ -49,7 +49,7 @@ Laporan Kinerja
 *	**Performa Menyeluh:** Penjualan medapatkan profit tertinggi pada 1 Januari 2019 dengan revenue senilai ₹2,7 M dan profit sebesar ₹1.5 M dan Pelanggan Electricalsara Stores mendominasi sumber keuangan AtliQ.Co dengan  37% total profit, data pelanggan tersebut juga membuat wilayah Central terlihat sebagai wilayah paling menguntungkan .Produk dengan kode Prod329 menjadi yang paling diminati oleh Electricalsara Stores dan Prod040 paling diminati secara menyeluruh dengan profit ₹1M. AtliQ.Co menyediakan data dalam rentang waktu dari 4 Oktober 2017 sampai 26 Juni 2020.
 
 <p align="center">
-  <img src="https://github.com/AlHafidzLuhurDarma/AtliQ_Computer_Hardware_Manufacturing_Analysis/blob/main/gambar/Screenshot%202025-10-13%20112835.png" width=600 height=400>
+  <img src="https://github.com/AlHafidzLuhurDarma/Analisa_AtliQ_Manufaktur_Perangkat_Keras_Komputer/blob/main/gambar/Screenshot%202025-10-13%20112835.png" width=600 height=400>
 </p>
   
 *	Penjualan Produk: AtliQ.Co memiliki 279 Produk dengan 88 produk tipe Distribution dan 191 Produk bertipe Own Brand. Produk dengan kode Prod040 dengan tipe Own Brand menjadi produk yang memiliki profit paling tinggi dengan ₹1M  (4.6% dari profit produk keseluruhan). 
@@ -65,8 +65,8 @@ Laporan Kinerja
     *	**Bulan**, Bulan Januari dan November selalu menjadi bulan paling menguntungkan di setiap tahun. Total revenue yang dihasilkan di bulan Januari selama 4 tahun adalah ₹99M dengan profit ₹2.8M, sedangkan November dalam waktu 3 tahun menghasilkan revenue ₹92M dengan profit ₹3M. Bulan Juni menjadi bulan paling berat setiap tahunnya, total penjualan pada bulan Juni selama 3 tahun hanya menghasilkan profit ₹1M.
 
 <p align="center">
-  <img src="https://github.com/AlHafidzLuhurDarma/AtliQ_Computer_Hardware_Manufacturing_Analysis/blob/main/gambar/pertumbuhan%20per%20bulan.png" width=700 height=400>
-  <img src="https://github.com/AlHafidzLuhurDarma/AtliQ_Computer_Hardware_Manufacturing_Analysis/blob/main/gambar/pertumbuhan%20per%20tahun.png" width=800 heigh=400>
+  <img src="https://github.com/AlHafidzLuhurDarma/Analisa_AtliQ_Manufaktur_Perangkat_Keras_Komputer/blob/main/gambar/pertumbuhan%20per%20bulan.png" width=700 height=400>
+  <img src="https://github.com/AlHafidzLuhurDarma/Analisa_AtliQ_Manufaktur_Perangkat_Keras_Komputer/blob/main/gambar/pertumbuhan%20per%20tahun.png" width=800 heigh=400>
 </p>
 
 *	Demografi Pelanggan: Pelanggan AtliQ.Co bukan perseorangan, melainkan Distributor atau sebuah toko yang tersebar di India (dan luar India) dengan total 38 Pelanggan dengan 19 bertipe E-Commerce dan 19 bertipe Brick & Mortar.
@@ -80,8 +80,8 @@ Laporan Kinerja
     *	 Zona Timur(South) menjadi yang paling lemah, walaupun memiliki 5 market, namun hanya bisa menyumbangkan kurang dari 5% pada total revenue dengan ₹45 M maupun total profit dengan ₹1 M.
 
 <p>
-  <img src="https://github.com/AlHafidzLuhurDarma/AtliQ_Computer_Hardware_Manufacturing_Analysis/blob/main/gambar/profit%20zona%20tahun.png" width=600 height=400>
-  <img src="https://github.com/AlHafidzLuhurDarma/AtliQ_Computer_Hardware_Manufacturing_Analysis/blob/main/gambar/zona.png" width=700 height=400>
+  <img src="https://github.com/AlHafidzLuhurDarma/Analisa_AtliQ_Manufaktur_Perangkat_Keras_Komputer/blob/main/gambar/profit%20zona%20tahun.png" width=600 height=400>
+  <img src="https://github.com/AlHafidzLuhurDarma/Analisa_AtliQ_Manufaktur_Perangkat_Keras_Komputer/blob/main/gambar/zona.png" width=700 height=400>
 </p>
 
 ## Perhatian Lebih	
