@@ -91,7 +91,7 @@ Laporan Kinerja
   * **Kluster 3,** memiliki 23 pelanggan dengan rata-rata revenue ₹14 M dan profit margin ₹200K. Kelompok pelanggan dengan pembelian dalam jumlah kecil, namun memberikan kestabilan pada penjualan
 
 <p align="center">
-  <img src="" width=600 height=600>
+  <img src="https://github.com/AlHafidzLuhurDarma/Analisa_AtliQ_Manufaktur_Perangkat_Keras_Komputer/blob/main/gambar/Screenshot%202025-10-14%20093157.png" width=600 height=600>
 </p>
 
 Berdasarkan pembagian tersebut, ditemukan 4 pelanggan yang dianggap sebagai anomali:
